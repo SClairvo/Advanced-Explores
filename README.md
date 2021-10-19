@@ -3,6 +3,9 @@
 
 A simple mod that makes your Minecraft survival more interesting and fun.
 
+## Information
+
+
 ## Quest & Answer
 
 Q :*What makes this mod worth playing in my Minecraft world?* 
@@ -17,9 +20,15 @@ Q :*What's the point of me trying this mod?*
 
 A :**Nothing, at least you try this mod even if only once. Come on!**
 
-**Info: I'm not forcing you to try or download this mods. If you are interested, what's wrong with trying (Download link below),**
+## Info
+**I'm not forcing you to try or download this mods. If you are interested, what's wrong with trying (Download link below).**
 
+## Download
+`Link not available`
+
+## Available versions
 | Version | Support | description|
 |---------|---------|-----|
-|1.10x|❌|~|
+|1.7x-1.10x|❌|~|
 |1.12x|✅|only **1.12.2**|
+|1.13.x-1.17x|❌|coming soon|
