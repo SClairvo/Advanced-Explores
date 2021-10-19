@@ -1,5 +1,24 @@
 # Advanced-Explores
 [![image](https://www.linkpicture.com/q/20211019_124544.png)](https://www.linkpicture.com/view.php?img=LPic616e5531d8fbe909319473)
+
+A simple mod that makes your Minecraft survival more interesting and fun.
+
+## Quest & Answer
+
+Q :*What makes this mod worth playing in my Minecraft world?* 
+
+A :**Because this mod offers interesting features to try! (This mod contains a lot of equipment, you know!)**
+
+Q :*What are the features of this mod?*
+
+A :**Lots! One of them adds 25+ weaponry and more. Let's try!**
+
+Q :*What's the point of me trying this mod?*
+
+A :**Nothing, at least you try this mod even if only once. Come on!**
+
+**Info: I'm not forcing you to try or download this mods. If you are interested, what's wrong with trying (Download link below),**
+
 | Version | Support | description|
 |---------|---------|-----|
 |1.10x|❌|~|
