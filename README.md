@@ -3,9 +3,6 @@
 
 A simple mod that makes your Minecraft survival more interesting and fun.
 
-## Information
-
-
 ## Quest & Answer
 
 Q :*What makes this mod worth playing in my Minecraft world?* 
